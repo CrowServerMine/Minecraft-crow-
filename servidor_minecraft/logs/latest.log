@@ -700,3 +700,18 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18May2025 20:21:46.689] [Server thread/INFO] [journeymap/]: minecraft~the_nether (Valid) Creating config file: ./journeymap/server/5.10/journeymap.server.minecraft~the_nether.config
 [18May2025 20:27:13.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xandroid3X[/100.102.20.95:38202] logged in with entity id 664 at (-78.08142178230075, 60.0, 293.8123136133219)
 [18May2025 20:27:13.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X joined the game
+[18May2025 20:30:20.559] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[18May2025 20:30:27.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[18May2025 20:30:48.107] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[18May2025 20:31:13.059] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[18May2025 20:33:43.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xandroid3X lost connection: Disconnected
+[18May2025 20:33:43.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X left the game
+[18May2025 20:33:43.877] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 20:35:27.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ram_zzz[/100.117.116.41:49992] logged in with entity id 1879 at (-51.69999998807907, 17.0, 289.30000001192093)
+[18May2025 20:35:27.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ram_zzz joined the game
+[18May2025 20:38:03.905] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [spartanweaponry:network] rejected their client side version number
+[18May2025 20:38:03.915] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[18May2025 20:38:03.929] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d0d5fd8[id=<null>,name=junioxd,properties={},legacy=false] (/100.83.92.16:64391) lost connection: Connection closed - mismatched mod channel list
+[18May2025 20:38:44.938] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [spartanweaponry:network] rejected their client side version number
+[18May2025 20:38:44.939] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[18May2025 20:38:44.965] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@186fcee4[id=<null>,name=junioxd,properties={},legacy=false] (/100.83.92.16:64415) lost connection: Connection closed - mismatched mod channel list
