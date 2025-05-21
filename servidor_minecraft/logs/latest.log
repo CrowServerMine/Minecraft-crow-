@@ -307,3 +307,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21May2025 22:17:26.173] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9472 ms
 [21May2025 22:17:26.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.886s)! For help, type "help"
 [21May2025 22:17:26.241] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21May2025 22:43:03.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xandroid3X[/100.102.20.95:4062] logged in with entity id 547 at (-80.5, 61.5625, 304.5)
+[21May2025 22:43:03.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X joined the game
+[21May2025 22:43:09.717] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: VileEntity['Vile Entity'/705, l='ServerLevel[world]', x=-141.31, y=65.00, z=192.95]
+[21May2025 22:43:09.718] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: VileEntity['Vile Entity'/706, l='ServerLevel[world]', x=-104.01, y=66.00, z=193.29]
+[21May2025 22:46:01.264] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
