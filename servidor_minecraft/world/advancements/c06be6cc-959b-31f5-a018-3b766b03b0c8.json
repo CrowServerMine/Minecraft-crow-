@@ -2684,12 +2684,6 @@
     },
     "done": true
   },
-  "apollyon:condemned_to_die": {
-    "criteria": {
-      "condemned_to_die": "2025-05-19 20:45:44 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/combat/bazooka": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 19:42:28 +0000"
@@ -2714,12 +2708,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-05-19 20:45:56 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/combat/rifle": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 19:42:28 +0000"
@@ -2729,24 +2717,6 @@
   "cgm:recipes/combat/pistol": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 19:42:28 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/combat/stun_grenade": {
-    "criteria": {
-      "has_gunpowder": "2025-05-19 20:59:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-05-19 20:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-05-19 20:14:35 +0000"
     },
     "done": true
   },
@@ -2762,9 +2732,39 @@
     },
     "done": true
   },
-  "cgm:recipes/combat/grenade": {
+  "cgm:recipes/misc/workbench": {
     "criteria": {
-      "has_gunpowder": "2025-05-19 20:59:13 +0000"
+      "has_iron": "2025-05-19 19:42:28 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/basic_bullet": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 19:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-19 20:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-19 20:14:35 +0000"
+    },
+    "done": true
+  },
+  "apollyon:condemned_to_die": {
+    "criteria": {
+      "condemned_to_die": "2025-05-19 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-19 20:45:56 +0000"
     },
     "done": true
   },
@@ -2774,9 +2774,15 @@
     },
     "done": true
   },
-  "cgm:recipes/misc/workbench": {
+  "cgm:recipes/combat/stun_grenade": {
     "criteria": {
-      "has_iron": "2025-05-19 19:42:28 +0000"
+      "has_gunpowder": "2025-05-19 20:59:13 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-05-19 20:59:13 +0000"
     },
     "done": true
   },
@@ -2786,9 +2792,9 @@
     },
     "done": true
   },
-  "cgm:recipes/combat/basic_bullet": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
-      "has_copper_ingot": "2025-05-19 19:42:28 +0000"
+      "has_copper_backpack": "2025-05-21 22:58:21 +0000"
     },
     "done": true
   },

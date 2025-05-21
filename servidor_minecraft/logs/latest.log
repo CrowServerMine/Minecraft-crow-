@@ -312,3 +312,6 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21May2025 22:43:09.717] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: VileEntity['Vile Entity'/705, l='ServerLevel[world]', x=-141.31, y=65.00, z=192.95]
 [21May2025 22:43:09.718] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: VileEntity['Vile Entity'/706, l='ServerLevel[world]', x=-104.01, y=66.00, z=193.29]
 [21May2025 22:46:01.264] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[21May2025 22:55:53.109] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=268, y=99, z=149}
+[21May2025 22:59:17.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X was slain by Cave Dweller
+[21May2025 22:59:17.651] [Server thread/INFO] [tombstone/]: The player Xandroid3X has successfully been saved
