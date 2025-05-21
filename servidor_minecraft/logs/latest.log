@@ -315,3 +315,7 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [21May2025 22:55:53.109] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=268, y=99, z=149}
 [21May2025 22:59:17.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X was slain by Cave Dweller
 [21May2025 22:59:17.651] [Server thread/INFO] [tombstone/]: The player Xandroid3X has successfully been saved
+[21May2025 23:08:24.606] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=220, y=69, z=126}
+[21May2025 23:20:54.656] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=271, y=98, z=151}
+[21May2025 23:26:57.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xandroid3X lost connection: Disconnected
+[21May2025 23:26:57.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X left the game
