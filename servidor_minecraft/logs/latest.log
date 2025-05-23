@@ -344,3 +344,25 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [23May2025 18:55:03.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X was slain by Lacerator
 [23May2025 18:56:08.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xandroid3X: Set own game mode to Creative Mode]
 [23May2025 18:56:18.541] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-61, y=84, z=322}
+[23May2025 18:56:58.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X has reached the goal [Easy Opening]
+[23May2025 18:57:05.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/15940, l='ServerLevel[world]', x=203.70, y=63.52, z=1011.18, removed=DISCARDED] died, message: 'Possessed Villager was slain by Cannibal'
+[23May2025 18:58:02.797] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 18:58:15.445] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/16218, l='ServerLevel[world]', x=201.54, y=72.00, z=963.96, removed=DISCARDED] died, message: 'Possessed Villager was slain by Cannibal'
+[23May2025 18:58:36.658] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 18:58:37.397] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 18:58:48.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 18:59:23.135] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 18:59:42.999] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:infectedsheep but it was marked as removed already
+[23May2025 19:00:13.705] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 19:00:19.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xandroid3X moved too quickly! -7.42617806968218,0.0,-7.034933161495928
+[23May2025 19:00:23.648] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 19:00:26.054] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 19:00:35.604] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[23May2025 19:00:36.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 19:00:49.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 19:00:49.208] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 19:01:00.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 19:01:02.447] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 19:01:04.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[23May2025 19:01:44.796] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 19:02:33.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
