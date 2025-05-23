@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-05-23 18:39:50 +0000",
       "minecraft:birch_forest": "2025-05-18 00:16:01 +0000",
       "minecraft:bamboo_jungle": "2025-05-18 21:37:53 +0000",
       "minecraft:beach": "2025-05-18 01:02:44 +0000",
@@ -3156,39 +3157,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-23 18:14:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-05-23 18:12:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_gold_nugget": "2025-05-23 18:19:14 +0000"
+      "has_sand": "2025-05-23 18:12:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_light_gray_dye": "2025-05-23 18:14:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-05-23 18:19:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-23 18:14:53 +0000"
+      "has_azure_bluet": "2025-05-23 18:12:59 +0000"
     },
     "done": true
   },
@@ -3198,9 +3181,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
-      "has_azure_bluet": "2025-05-23 18:12:59 +0000"
+      "has_oxeye_daisy": "2025-05-23 18:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-23 18:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2025-05-23 18:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-23 18:14:53 +0000"
     },
     "done": true
   },
@@ -3216,15 +3217,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_sand": "2025-05-23 18:12:15 +0000"
+      "has_gold_nugget": "2025-05-23 18:19:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_oxeye_daisy": "2025-05-23 18:13:08 +0000"
+      "has_gold_nugget": "2025-05-23 18:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-23 18:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-05-23 18:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-23 18:36:41 +0000"
     },
     "done": true
   },

@@ -325,3 +325,15 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [23May2025 18:21:55.507] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
 [23May2025 18:22:54.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X died from internal damage.
 [23May2025 18:22:54.830] [Server thread/INFO] [tombstone/]: The player Xandroid3X has successfully been saved
+[23May2025 18:27:33.391] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-91, y=76, z=329}
+[23May2025 18:32:25.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[23May2025 18:37:05.442] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=182, y=70, z=951}
+[23May2025 18:40:19.949] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[23May2025 18:40:25.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xandroid3X lost connection: Timed out
+[23May2025 18:40:25.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X left the game
+[23May2025 18:41:55.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xandroid3X[/100.102.20.95:47289] logged in with entity id 12060 at (358.5274042083735, 64.25220334025373, 1028.2024864029447)
+[23May2025 18:41:55.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X joined the game
+[23May2025 18:42:10.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X was slain by Spider
+[23May2025 18:42:10.079] [Server thread/INFO] [tombstone/]: The player Xandroid3X has successfully been saved
+[23May2025 18:44:32.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xandroid3X lost connection: Disconnected
+[23May2025 18:44:32.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X left the game
