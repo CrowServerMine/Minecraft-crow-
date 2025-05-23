@@ -412,6 +412,7 @@
       "bread": "2025-05-21 23:15:59 +0000",
       "rotten_flesh": "2025-05-18 01:11:10 +0000",
       "suspicious_stew": "2025-05-18 01:06:39 +0000",
+      "glow_berries": "2025-05-23 01:41:51 +0000",
       "melon_slice": "2025-05-18 02:09:19 +0000",
       "cooked_chicken": "2025-05-18 01:40:05 +0000",
       "carrot": "2025-05-18 01:06:49 +0000"
@@ -627,6 +628,7 @@
       "minecraft:skeleton": "2025-05-18 21:28:43 +0000",
       "minecraft:spider": "2025-05-18 01:05:12 +0000",
       "minecraft:creeper": "2025-05-18 21:42:05 +0000",
+      "minecraft:witch": "2025-05-23 01:35:16 +0000",
       "minecraft:zombie": "2025-05-18 01:05:24 +0000",
       "minecraft:drowned": "2025-05-18 22:37:06 +0000",
       "minecraft:zombie_villager": "2025-05-18 21:41:58 +0000"
@@ -2793,7 +2795,43 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-21 22:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-21 23:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-21 23:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-21 23:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-21 23:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-21 23:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-05-21 23:06:47 +0000"
     },
@@ -2811,33 +2849,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-05-21 23:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-05-21 23:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-05-21 23:06:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-05-21 23:24:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-05-21 23:06:47 +0000"
     },
     "done": true
   },
@@ -2853,21 +2867,45 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-05-21 22:58:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-05-21 23:04:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-05-21 23:24:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 01:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-23 01:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-23 01:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-23 02:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-05-23 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-05-23 02:22:11 +0000"
     },
     "done": true
   },

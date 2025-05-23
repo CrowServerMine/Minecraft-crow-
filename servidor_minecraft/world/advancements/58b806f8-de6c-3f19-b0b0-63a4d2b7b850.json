@@ -13,6 +13,7 @@
       "minecraft:river": "2025-05-18 00:45:40 +0000",
       "minecraft:dripstone_caves": "2025-05-18 00:50:07 +0000",
       "minecraft:forest": "2025-05-18 00:41:10 +0000",
+      "minecraft:lush_caves": "2025-05-23 02:20:55 +0000",
       "minecraft:jungle": "2025-05-18 00:40:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-18 23:35:51 +0000",
       "minecraft:plains": "2025-05-18 00:45:52 +0000"
@@ -517,8 +518,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "porkchop": "2025-05-18 01:40:02 +0000",
+      "tropical_fish": "2025-05-23 02:26:28 +0000",
       "apple": "2025-05-19 21:14:41 +0000",
+      "bread": "2025-05-23 01:59:09 +0000",
       "rotten_flesh": "2025-05-18 21:19:09 +0000",
+      "glow_berries": "2025-05-23 01:43:18 +0000",
       "melon_slice": "2025-05-18 01:08:07 +0000"
     },
     "done": false
@@ -2443,9 +2447,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-05-21 05:04:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-05-21 05:04:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-21 05:08:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-05-21 05:08:36 +0000"
     },
     "done": true
   },
@@ -2461,21 +2483,45 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/small_arrow_quiver": {
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
     "criteria": {
-      "has_arrow": "2025-05-21 05:08:36 +0000"
+      "has_lapis_lazuli": "2025-05-23 02:00:16 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/leather_heavy_crossbow": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "has_leather": "2025-05-21 05:04:17 +0000"
+      "has_lapis_lazuli": "2025-05-23 02:00:16 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/quiver_compartment": {
+  "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "has_leather": "2025-05-21 05:04:17 +0000"
+      "has_lapis_lazuli": "2025-05-23 02:00:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-05-23 02:01:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-05-23 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 02:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-23 02:00:31 +0000"
     },
     "done": true
   },
