@@ -2910,6 +2910,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-05-23 17:51:34 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_rapier": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 17:55:13 +0000"
@@ -3051,12 +3057,6 @@
   "spartanweaponry:recipes/golden_boomerang": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 17:55:13 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:longsword": {
-    "criteria": {
-      "has_longsword": "2025-05-23 17:51:34 +0000"
     },
     "done": true
   },
