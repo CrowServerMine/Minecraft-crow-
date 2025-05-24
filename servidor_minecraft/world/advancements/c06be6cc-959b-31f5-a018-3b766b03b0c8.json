@@ -629,7 +629,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-18 21:28:43 +0000",
+      "minecraft:hoglin": "2025-05-24 21:17:50 +0000",
       "minecraft:spider": "2025-05-18 01:05:12 +0000",
+      "minecraft:piglin_brute": "2025-05-24 21:34:12 +0000",
       "minecraft:creeper": "2025-05-18 21:42:05 +0000",
       "minecraft:witch": "2025-05-23 01:35:16 +0000",
       "minecraft:zombie": "2025-05-18 01:05:24 +0000",
@@ -3260,12 +3262,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-24 21:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-24 21:33:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-24 21:18:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-24 21:08:30 +0000",
-      "minecraft:nether_wastes": "2025-05-24 21:08:57 +0000"
+      "minecraft:nether_wastes": "2025-05-24 21:08:57 +0000",
+      "minecraft:soul_sand_valley": "2025-05-24 21:22:02 +0000",
+      "minecraft:basalt_deltas": "2025-05-24 21:24:53 +0000",
+      "minecraft:warped_forest": "2025-05-24 21:30:24 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-24 21:33:05 +0000"
+    },
+    "done": true
   },
   "tombstone:recipes/from_dark_marble": {
     "criteria": {
@@ -3294,6 +3323,12 @@
   "tombstone:adventure/first_pray": {
     "criteria": {
       "coded_trigger": "2025-05-24 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-24 21:33:49 +0000"
     },
     "done": true
   },
@@ -3327,9 +3362,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-24 21:23:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-05-24 21:32:21 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2025-05-24 21:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-24 21:33:49 +0000"
     },
     "done": true
   },
@@ -3348,6 +3401,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-24 21:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-24 21:35:31 +0000"
     },
     "done": true
   },
@@ -3375,9 +3434,21 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-24 21:32:18 +0000"
+    },
+    "done": true
+  },
   "endofherobrine:recipes/building_blocks/netherrack_totem": {
     "criteria": {
       "has_netherrack": "2025-05-24 21:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-24 21:33:49 +0000"
     },
     "done": true
   },
@@ -3393,9 +3464,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-24 21:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-24 21:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-24 21:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-24 21:29:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-24 21:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-24 21:35:31 +0000"
     },
     "done": true
   },
