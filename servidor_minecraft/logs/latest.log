@@ -308,3 +308,9 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24May2025 20:30:42.867] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10737 ms
 [24May2025 20:30:42.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.895s)! For help, type "help"
 [24May2025 20:30:42.939] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24May2025 20:54:21.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xandroid3X[/100.102.20.95:43687] logged in with entity id 556 at (-74.47696804089504, 60.0, 291.3551060381941)
+[24May2025 20:54:21.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X joined the game
+[24May2025 20:54:25.750] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: NightwalkerEntity['Infected Spider'/738, l='ServerLevel[world]', x=-127.61, y=65.00, z=213.61]
+[24May2025 20:54:26.291] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: LaceratorEntity['Lacerator'/761, l='ServerLevel[world]', x=-166.70, y=64.00, z=205.70]
+[24May2025 20:54:32.675] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CannibalEntity['Cannibal'/813, l='ServerLevel[world]', x=64.66, y=71.00, z=192.44]
+[24May2025 20:55:40.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xandroid3X: Set own game mode to Survival Mode]
