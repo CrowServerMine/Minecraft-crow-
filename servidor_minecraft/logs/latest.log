@@ -314,3 +314,15 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24May2025 20:54:26.291] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: LaceratorEntity['Lacerator'/761, l='ServerLevel[world]', x=-166.70, y=64.00, z=205.70]
 [24May2025 20:54:32.675] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CannibalEntity['Cannibal'/813, l='ServerLevel[world]', x=64.66, y=71.00, z=192.44]
 [24May2025 20:55:40.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xandroid3X: Set own game mode to Survival Mode]
+[24May2025 21:02:47.861] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-81, y=69, z=260}
+[24May2025 21:03:34.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X has made the advancement [Black or White]
+[24May2025 21:03:45.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X has reached the goal [A Small Cemetery]
+[24May2025 21:04:19.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[24May2025 21:05:13.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X has made the advancement [First Prayer]
+[24May2025 21:05:20.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[24May2025 21:05:22.514] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[24May2025 21:06:12.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[24May2025 21:07:12.372] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[24May2025 21:08:26.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X has made the advancement [We Need to Go Deeper]
+[24May2025 21:08:30.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8263ms or 165 ticks behind
+[24May2025 21:08:51.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xandroid3X> 5 42
