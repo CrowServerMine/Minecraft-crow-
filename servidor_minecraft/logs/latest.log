@@ -379,3 +379,10 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24May2025 22:28:13.991] [Server thread/WARN] [cgm/]: literal{Xandroid3X}(c06be6cc-959b-31f5-a018-3b766b03b0c8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 130
 [24May2025 22:28:27.739] [Server thread/WARN] [cgm/]: literal{Xandroid3X}(c06be6cc-959b-31f5-a018-3b766b03b0c8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 140
 [24May2025 22:28:30.628] [Server thread/WARN] [cgm/]: literal{Xandroid3X}(c06be6cc-959b-31f5-a018-3b766b03b0c8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
+[24May2025 22:32:15.430] [Server thread/WARN] [cgm/]: literal{Xandroid3X}(c06be6cc-959b-31f5-a018-3b766b03b0c8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[24May2025 22:32:29.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xandroid3X: Set own game mode to Creative Mode]
+[24May2025 22:32:45.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xandroid3X: Set own game mode to Survival Mode]
+[24May2025 22:33:05.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xandroid3X: Set own game mode to Creative Mode]
+[24May2025 22:33:48.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xandroid3X: Set own game mode to Survival Mode]
+[24May2025 22:33:50.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xandroid3X lost connection: Disconnected
+[24May2025 22:33:50.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandroid3X left the game
